@@ -9,10 +9,10 @@ https://www.kaggle.com/datasets/thedevastator/analyzing-customer-spending-habits
 https://swati1901.github.io/Data-Analytics/
 
 # Link for the Dashboard
-https://public.tableau.com/views/Project_DA1_Dashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/ria.goel/viz/Externship_Project_Dashboard/Dashboard1?publish=yes
 
 
 # Link of the Story
-https://public.tableau.com/views/Project_DA_Story1/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/ria.goel/viz/Externship_Project_Dashboard/Dashboard1?publish=yes
 
 
